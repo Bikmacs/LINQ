@@ -1,0 +1,16 @@
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\bin\Debug\net8.0-windows\AbobaChanelLinq.exe
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\bin\Debug\net8.0-windows\AbobaChanelLinq.deps.json
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\bin\Debug\net8.0-windows\AbobaChanelLinq.runtimeconfig.json
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\bin\Debug\net8.0-windows\AbobaChanelLinq.dll
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\bin\Debug\net8.0-windows\AbobaChanelLinq.pdb
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.Form1.resources
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.csproj.GenerateResource.cache
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.AssemblyInfoInputs.cache
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.AssemblyInfo.cs
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.csproj.CoreCompileInputs.cache
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.dll
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\refint\AbobaChanelLinq.dll
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.pdb
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\AbobaChanelLinq.genruntimeconfig.cache
+C:\Users\Bikmacs\Documents\LINQ\AbobaChanelLinq\obj\Debug\net8.0-windows\ref\AbobaChanelLinq.dll
